@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Avatar by [@a__yuzu24_](https://twitter.com/a__yuzu24_). Thank you!
+
+![Age: 21](https://img.shields.io/badge/age-21-green?style=for-the-badge)
+![Type: Student](https://img.shields.io/badge/type-student-brightgreen?style=for-the-badge)
+
 <!--
 **HKShuttle/HKShuttle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
