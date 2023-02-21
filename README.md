@@ -2,7 +2,7 @@
 
 Avatar by [@a__yuzu24_](https://twitter.com/a__yuzu24_). Thank you!
 
-![Age: 21](https://img.shields.io/badge/age-21-green?style=for-the-badge)
+![Age: 22](https://img.shields.io/badge/age-22-green?style=for-the-badge)
 ![Type: Student](https://img.shields.io/badge/type-student-brightgreen?style=for-the-badge)
 
 <!--
